@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "esteban portillo <esteban.07.elias@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
